@@ -54,3 +54,19 @@ Nombre | GPIO
 --- | --- 
 AIN1 | 18
 AIN2 | 5
+
+### Sensores de IR (Infrarrojo)
+Nombre | GPIO 
+--- | --- 
+DATA | 19
+VCC | 3V3 - 5V
+GND | GND
+
+### Otros Pines Disponibles
+Nombre | GPIO 
+--- | --- 
+DATA I/O| 13
+DATA I/O | 4
+VCC | 6V
+VCC | 3V3
+GND | GND

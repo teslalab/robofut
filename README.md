@@ -66,8 +66,8 @@ VSS | GND
 
 Nombre | GPIO 
 --- | --- 
-SCL | 19
-SDA | 3V3 - 5V
+SCL | 22
+SDI | 21
 VDD | 3V3
 VSS | GND
 

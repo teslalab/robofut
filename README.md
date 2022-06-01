@@ -59,14 +59,23 @@ AIN2 | 5
 Nombre | GPIO 
 --- | --- 
 DATA | 19
-VCC | 3V3 - 5V
-GND | GND
+VDD | 3V3 - 5V
+VSS | GND
+
+### I2C Connector STEMMA
+
+Nombre | GPIO 
+--- | --- 
+SCL | 19
+SDA | 3V3 - 5V
+VDD | 3V3
+VSS | GND
 
 ### Otros Pines Disponibles
 Nombre | GPIO 
 --- | --- 
 DATA I/O| 13
 DATA I/O | 4
-VCC | 6V
-VCC | 3V3
-GND | GND
+VDD | 6V
+VDD | 3V3
+VSS | GND

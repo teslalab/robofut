@@ -1,6 +1,6 @@
 # RoboFut Balam 2022
 
-## Instalación Tarjeta GEC
+## Instalación de la Tarjeta de control RoboFut
 
 Para la instalación en Arduino IDE debemos seguir los siguientes pasos:
 
@@ -38,3 +38,19 @@ Puede seguir está guía para la instalación como una segunda opción
 [Sigue la guía para instalar el driver CH340][DRIVER_CH340]
 
 [DRIVER_CH340]: https://www.arduined.eu/ch340-windows-10-driver-download/
+
+## Pinout
+
+### Motores Movimiento
+Nombre | GPIO 
+--- | --- 
+AIN1 | 32
+AIN2 | 33
+BIN1 | 25
+BIN2 | 26
+
+### Motores Lanzamiento
+Nombre | GPIO 
+--- | --- 
+AIN1 | 18
+AIN2 | 5

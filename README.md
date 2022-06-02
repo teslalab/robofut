@@ -83,7 +83,7 @@ VSS | GND
 ### Prueba Motores
 
 Código de prueba para motores amarillos en kit de RobotFUT. La V1 prueba los motores en formato digital (usando la función digitalWrite).
-*** Recuerde que el voltage de alimentación para los motores puede estar de 5V a 9V ***
+***Recuerde que el voltage de alimentación para los motores puede estar de 5V a 9V***
 
 [Visita el código base en el siguiente link v1.0][prueba_motore1]
 

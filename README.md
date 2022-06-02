@@ -42,10 +42,16 @@ Puede seguir está guía para la instalación como una segunda opción
 ## Pinout
 
 ### Motores Movimiento
+
+#### Motor 1 
 Nombre | GPIO 
 --- | --- 
 AIN1 | 32
 AIN2 | 33
+
+#### Motor 2 
+Nombre | GPIO 
+--- | --- 
 BIN1 | 25
 BIN2 | 26
 

@@ -56,6 +56,8 @@ BIN1 | 25
 BIN2 | 26
 
 ### Motores Lanzamiento
+
+#### Motor 3
 Nombre | GPIO 
 --- | --- 
 AIN1 | 18

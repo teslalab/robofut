@@ -82,19 +82,21 @@ VSS | GND
 
 ### Prueba Motores
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book
+Código de prueba para motores amarillos en kit de RobotFUT. La V1 prueba los motores en formato digital (usando la función digitalWrite).
 
 [Visita el código base en el siguiente link v1.0][prueba_motore1]
 
 [prueba_motore1]: https://github.com/teslalab/robofut/tree/main/ejemplos%20robofut%20balam%202022/balam2022-prueba-motores-v1
 
-[Visita el código base en el siguiente link v1.0][prueba_motore2]
+Código de prueba para motores amarillos en kit de RobotFUT. La V2 prueba los motores en formato digital/análogo (usando la función digitalWrite y analogWrite).
+
+[Visita el código base en el siguiente link v2.0][prueba_motore2]
 
 [prueba_motore2]: https://github.com/teslalab/robofut/tree/main/ejemplos%20robofut%20balam%202022/balam2022-prueba-motores-v2
 
 ### Prueba sensor IR
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book
+Este código tiene una interacción con el sensor IR.
 
 [Visita el código base en el siguiente link][prueba_motore]
 
@@ -102,7 +104,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 ### Control Remote desde Dabble
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book
+Este código permite la interacción a través de Bluetooth desde la aplicación DABBLE (descargada en móvil o tablet). El código permite ya mover remotamente el rover.
 
 [Visita el código base en el siguiente link v1.0][prueba_motore1]
 

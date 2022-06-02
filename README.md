@@ -100,6 +100,11 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book
 
-[Visita el código base en el siguiente link][prueba_motore]
+[Visita el código base en el siguiente link v1.0][prueba_motore]
 
-[prueba_motore]: https://www.arduined.eu/files/windows10/CH341SER.zip
+[prueba_motore]: https://github.com/teslalab/robofut/tree/main/ejemplos%20robofut%20balam%202022/balam2022-gamepad-dabble-test-v1
+
+
+[Visita el código base en el siguiente link v2.1][prueba_motore]
+
+[prueba_motore]: https://github.com/teslalab/robofut/tree/main/ejemplos%20robofut%20balam%202022/balam2022-gamepad-dabble-test-v2_1

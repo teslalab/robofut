@@ -106,13 +106,13 @@ Este código tiene una interacción con el sensor IR.
 
 Este código permite la interacción a través de Bluetooth desde la aplicación DABBLE (descargada en móvil o tablet). El código permite ya mover remotamente el rover.
 
-Este código permite interacción entre el móvil o tablet en la modalidad gamepad. No se mueven los motores.
+Este código permite interacción entre el móvil o tablet en la modalidad gamepad. **No se mueven los motores.**
 
 [Visita el código base en el siguiente link v1.0][prueba_motore1]
 
 [prueba_motore1]: https://github.com/teslalab/robofut/tree/main/ejemplos%20robofut%20balam%202022/balam2022-gamepad-dabble-test-v1
 
-Este código permite interacción entre el móvil o tablet en la modalidad gamepad. Con este código se mueven los motores.
+Este código permite interacción entre el móvil o tablet en la modalidad gamepad. **Con este código se mueven los motores.**
 
 [Visita el código base en el siguiente link v2.1][prueba_motore2]
 

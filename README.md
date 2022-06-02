@@ -11,7 +11,7 @@ Para la instalación en Arduino IDE debemos seguir los siguientes pasos:
 	- Luego presionamos la opción ***OK*** y automáticamente se cerrará la ventana.
 3. Debemos ir a la pestaña ***Herramientas***->***Placa***->***Gestor de tarjetas***.
 	- Colocamos en la barra de búsqueda ***ESP32***.
-	- Seleccionamos la opción que nos muestre ***NodeMCU-32S***.
+	- Seleccionamos la opción que nos muestre ***ESP32 WROVER Module***.
 	- Instalamos y luego presionamos la opción de ***Cerrar***.
 
 Con esto tendremos completa la instalación de nuestra tarjeta ESP32 y lista para ser programada.	 

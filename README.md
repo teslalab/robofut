@@ -61,7 +61,7 @@ BIN2 | 26
 Nombre | GPIO 
 --- | --- 
 AIN1 | 18
-AIN2 | 5
+AIN2 | 4
 
 ### Sensores de IR (Infrarrojo)
 Nombre | GPIO 
